@@ -20,7 +20,7 @@ link da landing page:
 
 <hr>
 
-## Estrtura do repositório
+## Estrutura do repositório
 
 ```
 landing_page_black_friday
