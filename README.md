@@ -7,7 +7,7 @@ com a finalidade de divulgar uma promoção Black Friday e que seja possível a 
 
 Criei a empresa Mundi Gastrô que funciona por meio de uma assinatura mensal. Mensalmente é escolhido um menu de comidas típicas de um determinado país e são enviados os ingredientes para casa dos clientes, no qual eles prepararão o menu com o auxílio do vídeo explicativo disponibilizado no aplicativo Mundi Gastrô.
 
-link da landing page: 
+link da landing page: https://cunhac.github.io/landing_page_black_friday/index.html
 
 <hr>
 
